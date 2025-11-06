@@ -23,6 +23,9 @@ int main()
 
     printf("Result is: %d",result);
 
+    return 0;
+
 }
+
 
 // &num1,&num2 means the address of the input

@@ -15,5 +15,6 @@ int main()
         printf("\n%d",numbers[i]);
     }
 
-
+    return 0;
 }
+

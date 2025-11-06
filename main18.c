@@ -25,9 +25,12 @@ int main()
     average=sum/count;
     printf("\nAverage of the ten grades entered is: %.2f\n", average);
 
+    return 0;
+
 }
 
 // Make sure that you dont cross the array bounds
 // Because if you do, you will get garbage values or your program may crash
 // And everything looks normal,The program dont give any error or warning
 // Because of this a man said "C is like a knife don't give it to the children"
+

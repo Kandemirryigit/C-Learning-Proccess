@@ -49,10 +49,11 @@ int main(void)
 
     printf("char is %d byte",sizeof(character));   // char is 1 byte
 
-
+    return 0;
 
 }
 
 
 // long int and just int are same so default int is already long int
+
 // I can't use long long,short,long with float

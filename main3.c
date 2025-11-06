@@ -33,6 +33,8 @@ int main(void)
     printf("\nLong double number is: %Lf",doubleNumber2); // %LF for long double
 
     printf("\nChar is: %c",character); // %c for characters
+
+    return 0;
 }
 
 // When working with print it is not going to be any problem if you dont type %hd for short int or other things (long long ,long) 
@@ -41,5 +43,6 @@ int main(void)
 
 // When defining a character we should use ('A')
 // When defining a string we should ("Hello")
+
 
 
